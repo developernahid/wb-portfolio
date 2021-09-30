@@ -1,0 +1,22 @@
+[16-Sep-2021 15:49:55 UTC] PHP Warning:  include_once(/home/develop3/public_html/wp-content/themes/astra/Change_log.php): failed to open stream: No such file or directory in /home/develop3/public_html/wp-content/plugins/realspaces-core/imi-admin/pages/welcome.php on line 337
+[16-Sep-2021 15:49:55 UTC] PHP Warning:  include_once(): Failed opening '/home/develop3/public_html/wp-content/themes/astra/Change_log.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/develop3/public_html/wp-content/plugins/realspaces-core/imi-admin/pages/welcome.php on line 337
+[19-Sep-2021 15:06:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/develop3/public_html/wp-includes/class-wp-object-cache.php on line 446
+[19-Sep-2021 15:06:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/develop3/public_html/wp-includes/class-wp-object-cache.php on line 446
+[19-Sep-2021 15:07:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/develop3/public_html/wp-includes/class-wp-object-cache.php on line 446
+[19-Sep-2021 15:07:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/develop3/public_html/wp-includes/class-wp-object-cache.php on line 446
+[19-Sep-2021 15:09:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/develop3/public_html/wp-includes/meta.php on line 1085
+[19-Sep-2021 15:11:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/develop3/public_html/wp-includes/meta.php on line 1085
+[19-Sep-2021 15:14:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:14:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:17:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:17:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/develop3/public_html/wp-includes/meta.php on line 1081
+[19-Sep-2021 15:17:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/develop3/public_html/wp-includes/meta.php on line 1081
+[19-Sep-2021 15:20:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:21:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:21:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:27:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:28:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:32:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:45:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:46:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
+[19-Sep-2021 15:49:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /home/develop3/public_html/wp-includes/wp-db.php on line 2022
